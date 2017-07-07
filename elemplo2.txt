@@ -1,0 +1,1 @@
+cambios importantes que romperán la compilación, pruebas, experimentos o intentos de optimización
