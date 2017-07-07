@@ -1,1 +1,1 @@
-Ejemplo 3 de git svn
+Ejemplo 3 de git svn utilizando github for mac
